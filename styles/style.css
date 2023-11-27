@@ -383,7 +383,7 @@ nav.show div.icon-close {
     position: relative;
     text-indent: 1.875rem;
     margin-bottom: 1.5rem;
-    color: var(--title-color);
+    color: var( --text-color-light);
 }
 
 #testimonials blockquote p span {
